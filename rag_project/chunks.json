@@ -1,0 +1,637 @@
+[
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:00:00",
+    "text": "So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024. In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software, my opinion is a little different here. I will say who will take away the jobs, not AI. The person who will learn to learn AI and machine learning tools will take away. Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:00:26",
+    "text": "to do those things which a normal software developer does with a lot of hard work and in this way your smart work will be useful that what are you doing what are you learning there was a way to do a task in 10 minutes you made it in an hour you are doing it with that classical approach then the person who is doing approach so that person will replace you who is doing it in 10 minutes and today I will talk about what is machine learning what is AI how you can learn AI and machine learning and we will talk about some modern tools"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:00:56",
+    "text": "which you should use if you want to focus on machine learning and artificial intelligence in 2024 and you want to give a boost to your career and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say you want to save your career. What is machine learning? Machine learning is a process of training an algorithm on data What does it mean? You have a lot of data Let's say you have 3 billion data points and now you want that you can predict about new data points"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:01:24",
+    "text": "by looking at 3 billion data points. Now let us say I have data that how fast was the wind I have data that how much was the precipitation, how much was the humidity and what was the temperature that day and I have to predict whether it is going to rain or not. I can do this using machine learning algorithms. How will I do prediction? I will do it by showing that old data to a machine learning algorithm so i will say when the precipitation was this much and humidity was this much and temperature was this much then it rained"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:01:52",
+    "text": "when the precipitation, humidity and temperature was this much then it didn't rain when i will give a new value that today's precipitation, humidity and temperature is this much then it will tell me that according to this value today it is not going to rain and today it is going to rain, today it is going to rain will it be true? no, it will be a prediction so what machine learning and AI does is predictions I have talked about a very simple prediction but if you take this thing to the next level"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:02:18",
+    "text": "through deep learning, if you train complex algorithms then it is seen there that by training complex algorithms this process becomes so dangerous that humans also get amazed chart gpt is a classic example of this chart gpt is not a pure machine learning model chart gpt gives you some layer of abstraction on machine learning that means it has some regular rules some checks chart gpt is not just a neural network, let me tell you this too, so on that neural network, a little customization is done,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:02:51",
+    "text": "a thing is made, which blows the mind of a common man, if you want to learn machine learning, and want to learn to deploy machine learning models, because in the industry, you are not asked the basics, you will have real world data, and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data and give some insights and make the business profit and in this situation, it is not necessary that you know the machine learning algorithm"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:03:14",
+    "text": "and this function or not but there it is necessary that how long are you doing the implementation and if you are able to do the implementation well then you will be very successful in that job. Your demand will increase. You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools. And with the help of such tools, AI models are deployed. For example, take the example of Amazon SageMaker. You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:03:51",
+    "text": "I was looking at some Amazon courses on Skillbuilder If you don't know what is Skillbuilder, then you should know about Skillbuilder Because there are many free courses there that will teach you about Generative AI We will teach you how to use Amazon AWS tools If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS you can always create one you get 1 year free at the time of recording this video"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:04:15",
+    "text": "Amazon AWS gives you a lot of free tier to deploy machines which is actually a lot of help from Amazon I will show you about Amazon AWS skill builder and some other Amazon courses in the computer screen. If you open this webpage, which I have also given in the description, if you see here, then here is a video of machine learning basics, which is a revolutionary video, let me tell you. You guys watch this video, I watched this video completely and it was a game changer because they have to do all this from Amazon AWS"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:04:47",
+    "text": "and keeping in mind the aspect of Amazon AWS which in my opinion is great because if you are able to do this kind of work then you are the king of modern generative AI you don't just have to know about algorithms you should know how to do these things and if you have learned to use code whisperer you have learned to use SageMaker then with the help of AWS the things you are able to do you will be able to do it faster so if I take you to the skill builder then you can sign up for it and there are a lot of free courses here"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:05:24",
+    "text": "you can explore them and start taking them. Create an account on Amazon AWS and start working. And in the next 1-2 years, the demand for all these things is going to increase a lot. And as I told you a while ago, that AI will not replace you, you will be replaced by a person who uses AI to conquer, who will be faster than you because he uses AI so guys that's why I will put all these resources in the description for you and you can learn everything by doing it slowly here Amazon has put free courses for you"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:05:57",
+    "text": "with generative AI how you can use Amazon AWS tools you will get the link in the description you all can access the link in the description All the learning paths PDFs and all this I will give you in the description Now we come back to what is machine learning So by showing the data we can do prediction With the help of machine learning, I just told you this But machine learning is of three types If I talk only about machine learning Supervised, unsupervised and reinforcement learning what happens in supervised learning is that you have some input"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:06:29",
+    "text": "or multiple output and you have this kind of organized data like I told you, based on precipitation, humidity and temperature we were predicting rain yes or no if I have this kind of data and I have values of new precipitation, humidity and temperature then based on that I can find out whether it will rain or not based on that or if I have some parameters of a person's health parameters let's say his blood pressure, let's say his blood glucose along with that, if I have all these things"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:06:56",
+    "text": "then I can find out whether he is diabetic or not if I run it with a machine learning algorithm then I can get a very good information about the patient I can get a presumption that he can have diabetes or not and on the basis of that I can do tests etc. so it is being used a lot in medical and health care because generative AI is doing a lot of manual work so what happens in supervised learning that the input you have is output is specified by you that this is the output in unsupervised learning you have data"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:07:24",
+    "text": "and on that data you have to train an algorithm in such a way that algorithm tells you how this data can be organized for example, I can do clustering I have a lot of data points and I want to find out which of these data points are related to each other and how much are they related, so I can use k-means clustering algorithm or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms and do clustering and classify a data in some labels and I can generate those labels by myself"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:07:54",
+    "text": "these things are used a lot in generative AI and NLP once the data comes from neural network so in supervised learning, labeled examples are used and in unsupervised learning, unlabeled examples are used. Another example of unsupervised learning is credit card fraud detection. Which credit card fraud or which transaction can be a fraudulent transaction. Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning. Then after this, there is another category, reinforcement learning."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:08:24",
+    "text": "What happens in Reinforcement Learning is that we leave an agent to collect data. So what does he do? The agent does trial and error and on the basis of that trial and error he gets rewards or he gets a penalty and what does he do? He maximizes his rewards. And after that, he only does the work by which his reward is maximized. And he himself knows what work he should do so that my reward is maximized Now what is the overall process of running a machine learning algorithm on a data? What kind of process will you go through if you want to train a model with a machine learning algorithm?"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:08:58",
+    "text": "The first step is data collection, in this you collect data Now if your data is present in any database, then you will pull the data from there and bring it in the desired format and the second step after data collection is data pre-processing in which you will clean up the data and after cleaning it up we will bring it in such a format such that it can be consumed by a machine learning algorithm after this comes the model selection in which you will select a suitable model or sometimes we use a lot of models"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:09:24",
+    "text": "and for this packages like scikit-le learn, tensorflow, keras, pytorch, we use all of these then after this we train our model, this process sometimes takes a lot of time, sometimes it takes very less time depending upon which algorithm we are using, how many data points we have and what kind of data points sometimes our data points are such big vectors that even if it is less, it takes a lot of time. After this, we do testing and evaluation in which we test our model and find out how much our model is better"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:09:53",
+    "text": "and to make it better what can we do we get an accuracy number and if we can maximize the accuracy with any other algorithm then we will do that after this we do predictions and after doing predictions we put the model in production and after that we keep updating the model as we get more data so this process is iterative and it keeps on repeating now we have some common metrics to evaluate machine learning algorithms like we have a metric ROC AOC curve, along with that we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:10:32",
+    "text": "Once you know what all these are, you will be able to evaluate your model very closely And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same but how you are deploying such that your service is not down you don't get downtime at all and you get such a managed environment so that you can retrain your model you can put it in production you are not having any problem and for this, as I told you, you can check out Amazon's tools"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:11:02",
+    "text": "I will put all the links in the description. Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI? Deep learning is to make a neural network that approximates a function. That function is assumed to fit the data given to us. And it will also predict the incoming data points Neural network is a complex function which is impossible to imagine and it can approximate a lot of data points if I say 3x4x7 and 1x2x3 and 4x4x8 then you will understand that it is adding"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:11:43",
+    "text": "so function is simple x plus y But sometimes the function is so complex That you want to make that function in such a way that it is sitting very accurately and realistically on the data So for this we use deep learning In which we use artificial neural networks Artificial neural networks basically approximate a function We feed data with it again and again And minimize the error this process is called training we have feed forward neural networks we have backward propagation methods then there are different types of neural networks"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:12:13",
+    "text": "like CNN, convolutional neural network RNN, recurrent neural network along with that there are LSTMs long short term memory neural networks these are made to solve longer sequences and vanishing gradient problems. I had made a video long ago in which I talked about vanishing gradient problem. So you can watch it. I had uploaded those videos of machine learning long ago. So if you are interested, you can watch them again. I have explained it in a very classical way on the board. Then we have auto encoders, GANs, Generative Adversarial Networks."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:12:42",
+    "text": "GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards Generative AI earlier LSTMs were used but since the time of transformers which is again a kind of neural network architecture such that you can train data on NLP very easily so you can use it to arrive at things like chart GPT but again it's not that easy you have to understand the basics and then you have to see what is the architecture of transformer"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:13:10",
+    "text": "what is transformer, what is attention why it was made, what was the problem in LSTM that we switched to transformers and how a transformer's architecture generates new data by looking at old data how it is encoded in numbers all this textual information in numbers such that it is predicting our next token now it is not that you should know everything that you know mathematics you know loss function you should know the architecture of python no, you should learn you should have information how your neural network is trained"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:13:43",
+    "text": "and after that your work is very simple use amazon sage maker use amazon tools feed the data there is a thing made for you such that you can send your model in production as soon as possible so you will use it use any new AI tool use those things that are already available instead of reinventing the wheel you will work by yourself so definitely you will be successful in all these things so this was some basics of machine learning, AI and deep learning you want to learn them again I will put the links of Amazon skill builder in the description"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:14:18",
+    "text": "on which you will learn how to use generative AI and Amazon SageMaker to do the things of generative AI I will give you all that in the description I was watching this video of Amazon and it was really very helpful for me to be honest and go to this page and watch these videos first of all, some basics of machine learning has been talked about and how to use Generative AI and how to use Amazon SageMaker to do all these things is told about it so you can check the resources in the description I hope you liked this video"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_All About Machine Learning & Deep Learning in 2025 🔥.txt",
+    "timestamp": "00:14:50",
+    "text": "what do you have to say? do you agree with me that AI will not take the job but AI tools will take your job with that said I hope this video was helpful thank you so much for watching this video and I will see you next time"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:00:04",
+    "text": "This is a 3. It's sloppily written and rendered at an extremely low resolution of 28x28 pixels, but your brain has no trouble recognizing it as a 3. And I want you to take a moment to appreciate how crazy it is that brains can do this so effortlessly. I mean, this, this and this are also recognizable as 3s, even though the specific values of each pixel is very different from one image to the next. The particular light-sensitive cells in your eye that are firing when you see this 3 are very different from the ones firing when you see this 3."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:00:38",
+    "text": "But something in that crazy-smart visual cortex of yours resolves these as representing the same idea, while at the same time recognizing other images as their own distinct ideas. But if I told you, hey, sit down and write for me a program that takes in a grid of 28x28 pixels like this and outputs a single number between 0 and 10, telling you what it thinks the digit is, well the task goes from comically trivial to dauntingly difficult. Unless you've been living under a rock, I think I hardly need to motivate the relevance"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:01:11",
+    "text": "and importance of machine learning and neural networks to the present and to the future. But what I want to do here is show you what a neural network actually is, assuming no background, and to help visualize what it's doing, not as a buzzword but as a piece of math. My hope is that you come away feeling like the structure itself is motivated, and to feel like you know what it means when you read, or you hear about a neural network quote-unquote learning. This video is just going to be devoted to the structure component of that,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:01:38",
+    "text": "and the following one is going to tackle learning. What we're going to do is put together a neural network that can learn to recognize handwritten digits. This is a somewhat classic example for introducing the topic, and I'm happy to stick with the status quo here, because at the end of the two videos I want to point you to a couple good resources where you can learn more, and where you can download the code that does this and play with it on your own computer. There are many many variants of neural networks,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:02:08",
+    "text": "and in recent years there's been sort of a boom in research towards these variants, but in these two introductory videos you and I are just going to look at the simplest plain vanilla form with no added frills. This is kind of a necessary prerequisite for understanding any of the more powerful modern variants, and trust me it still has plenty of complexity for us to wrap our minds around. But even in this simplest form it can learn to recognize handwritten digits, which is a pretty cool thing for a computer to be able to do."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:02:37",
+    "text": "And at the same time you'll see how it does fall short of a couple hopes that we might have for it. As the name suggests neural networks are inspired by the brain, but let's break that down. What are the neurons, and in what sense are they linked together? Right now when I say neuron all I want you to think about is a thing that holds a number, specifically a number between 0 and 1. It's really not more than that. For example the network starts with a bunch of neurons corresponding to"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:03:09",
+    "text": "each of the 28x28 pixels of the input image, which is 784 neurons in total. Each one of these holds a number that represents the grayscale value of the corresponding pixel, ranging from 0 for black pixels up to 1 for white pixels. This number inside the neuron is called its activation, and the image you might have in mind here is that each neuron is lit up when its activation is a high number. So all of these 784 neurons make up the first layer of our network. Now jumping over to the last layer, this has 10 neurons,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:03:49",
+    "text": "each representing one of the digits. The activation in these neurons, again some number that's between 0 and 1, represents how much the system thinks that a given image corresponds with a given digit. There's also a couple layers in between called the hidden layers, which for the time being should just be a giant question mark for how on earth this process of recognizing digits is going to be handled. In this network I chose two hidden layers, each one with 16 neurons, and admittedly that's kind of an arbitrary choice."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:04:21",
+    "text": "To be honest I chose two layers based on how I want to motivate the structure in just a moment, and 16, well that was just a nice number to fit on the screen. In practice there is a lot of room for experiment with a specific structure here. The way the network operates, activations in one layer determine the activations of the next layer. And of course the heart of the network as an information processing mechanism comes down to exactly how those activations from one layer bring about activations in the next"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:04:48",
+    "text": "layer. It's meant to be loosely analogous to how in biological networks of neurons, some groups of neurons firing cause certain others to fire. Now the network I'm showing here has already been trained to recognize digits, and let me show you what I mean by that. It means if you feed in an image, lighting up all 784 neurons of the input layer according to the brightness of each pixel in the image, that pattern of activations causes some very specific pattern in the next layer which causes some pattern in the one after it,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:05:19",
+    "text": "which finally gives some pattern in the output layer. And the brightest neuron of that output layer is the network's choice, so to speak, for what digit this image represents. And before jumping into the math for how one layer influences the next, or how training works, let's just talk about why it's even reasonable to expect a layered structure like this to behave intelligently. What are we expecting here? What is the best hope for what those middle layers might be doing? Well, when you or I recognize digits, we piece together various components."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:05:54",
+    "text": "A 9 has a loop up top and a line on the right. An 8 also has a loop up top, but it's paired with another loop down low. A 4 basically breaks down into three specific lines, and things like that. Now in a perfect world, we might hope that each neuron in the second to last layer corresponds with one of these subcomponents, that anytime you feed in an image with, say, a loop up top, like a 9 or an 8, there's some specific neuron whose activation is going to be close to 1. And I don't mean this specific loop of pixels,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:06:27",
+    "text": "the hope would be that any generally loopy pattern towards the top sets off this neuron. That way, going from the third layer to the last one just requires learning which combination of subcomponents corresponds to which digits. Of course, that just kicks the problem down the road, because how would you recognize these subcomponents, or even learn what the right subcomponents should be? And I still haven't even talked about how one layer influences the next, but run with me on this one for a moment."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:06:54",
+    "text": "Recognizing a loop can also break down into subproblems. One reasonable way to do this would be to first recognize the various little edges that make it up. Similarly, a long line, like the kind you might see in the digits 1 or 4 or 7, is really just a long edge, or maybe you think of it as a certain pattern of several smaller edges. So maybe our hope is that each neuron in the second layer of the network corresponds with the various relevant little edges. Maybe when an image like this one comes in, it lights up all of the"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:07:28",
+    "text": "neurons associated with around 8 to 10 specific little edges, which in turn lights up the neurons associated with the upper loop and a long vertical line, and those light up the neuron associated with a 9. Whether or not this is what our final network actually does is another question, one that I'll come back to once we see how to train the network, but this is a hope that we might have, a sort of goal with the layered structure like this. Moreover, you can imagine how being able to detect edges and patterns"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:07:57",
+    "text": "like this would be really useful for other image recognition tasks. And even beyond image recognition, there are all sorts of intelligent things you might want to do that break down into layers of abstraction. Parsing speech, for example, involves taking raw audio and picking out distinct sounds, which combine to make certain syllables, which combine to form words, which combine to make up phrases and more abstract thoughts, etc. But getting back to how any of this actually works, picture yourself right now designing how exactly the activations in one layer might"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:08:28",
+    "text": "determine the activations in the next. The goal is to have some mechanism that could conceivably combine pixels into edges, or edges into patterns, or patterns into digits. And to zoom in on one very specific example, let's say the hope is for one particular neuron in the second layer to pick up on whether or not the image has an edge in this region here. The question at hand is what parameters should the network have? What dials and knobs should you be able to tweak so that it's expressive"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:09:00",
+    "text": "enough to potentially capture this pattern, or any other pixel pattern, or the pattern that several edges can make a loop, and other such things? Well, what we'll do is assign a weight to each one of the connections between our neuron and the neurons from the first layer. These weights are just numbers. Then take all of those activations from the first layer and compute their weighted sum according to these weights. I find it helpful to think of these weights as being organized into a little grid of their own, and I'm going to use green pixels to indicate"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:09:35",
+    "text": "positive weights, and red pixels to indicate negative weights, where the brightness of that pixel is some loose depiction of the weight's value. Now if we made the weights associated with almost all of the pixels zero except for some positive weights in this region that we care about, then taking the weighted sum of all the pixel values really just amounts to adding up the values of the pixel just in the region that we care about. And if you really wanted to pick up on whether there's an edge here,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:10:02",
+    "text": "what you might do is have some negative weights associated with the surrounding pixels. Then the sum is largest when those middle pixels are bright but the surrounding pixels are darker. When you compute a weighted sum like this, you might come out with any number, but for this network what we want is for activations to be some value between 0 and 1. So a common thing to do is to pump this weighted sum into some function that squishes the real number line into the range between 0 and 1. And a common function that does this is called the sigmoid function,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:10:36",
+    "text": "also known as a logistic curve. Basically very negative inputs end up close to 0, positive inputs end up close to 1, and it just steadily increases around the input 0. So the activation of the neuron here is basically a measure of how positive the relevant weighted sum is. But maybe it's not that you want the neuron to light up when the weighted sum is bigger than 0. Maybe you only want it to be active when the sum is bigger than say 10. That is, you want some bias for it to be inactive. What we'll do then is just add in some other number like negative 10 to this"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:11:15",
+    "text": "weighted sum before plugging it through the sigmoid squishification function. That additional number is called the bias. So the weights tell you what pixel pattern this neuron in the second layer is picking up on, and the bias tells you how high the weighted sum needs to be before the neuron starts getting meaningfully active. And that is just one neuron. Every other neuron in this layer is going to be connected to all 784 pixel neurons from the first layer, and each one of those 784 connections has its own weight associated with it."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:11:52",
+    "text": "Also, each one has some bias, some other number that you add on to the weighted sum before squishing it with the sigmoid. And that's a lot to think about! With this hidden layer of 16 neurons, that's a total of 784 times 16 weights, along with 16 biases. And all of that is just the connections from the first layer to the second. The connections between the other layers also have a bunch of weights and biases associated with them. All said and done, this network has almost exactly 13,000 total weights and biases."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:12:24",
+    "text": "13,000 knobs and dials that can be tweaked and turned to make this network behave in different ways. So when we talk about learning, what that's referring to is getting the computer to find a valid setting for all of these many many numbers so that it'll actually solve the problem at hand. One thought experiment that is at once fun and kind of horrifying is to imagine sitting down and setting all of these weights and biases by hand, purposefully tweaking the numbers so that the second layer picks up on edges,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:12:54",
+    "text": "the third layer picks up on patterns, etc. I personally find this satisfying rather than just treating the network as a total black box, because when the network doesn't perform the way you anticipate, if you've built up a little bit of a relationship with what those weights and biases actually mean, you have a starting place for experimenting with how to change the structure to improve. Or when the network does work but not for the reasons you might expect, digging into what the weights and biases are doing is a good way to challenge"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:13:22",
+    "text": "your assumptions and really expose the full space of possible solutions. By the way, the actual function here is a little cumbersome to write down, don't you think? So let me show you a more notationally compact way that these connections are represented. This is how you'd see it if you choose to read up more about neural networks. Organize all of the activations from one layer into a column as a vector. Then organize all of the weights as a matrix, where each row of that matrix corresponds"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:13:50",
+    "text": "to the connections between one layer and a particular neuron in the next layer. What that means is that taking the weighted sum of the activations in the first layer according to these weights corresponds to one of the terms in the matrix vector product of everything we have on the left here. By the way, so much of machine learning just comes down to having a good grasp of linear algebra, so for any of you who want a nice visual understanding for matrices and what matrix vector multiplication means,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:14:25",
+    "text": "take a look at the series I did on linear algebra, especially chapter 3. Back to our expression, instead of talking about adding the bias to each one of these values independently, we represent it by organizing all those biases into a vector, and adding the entire vector to the previous matrix vector product. Then as a final step, I'll wrap a sigmoid around the outside here, and what that's supposed to represent is that you're going to apply the sigmoid function to each specific component of the resulting vector inside."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:14:56",
+    "text": "So once you write down this weight matrix and these vectors as their own symbols, you can communicate the full transition of activations from one layer to the next in an extremely tight and neat little expression, and this makes the relevant code both a lot simpler and a lot faster, since many libraries optimize the heck out of matrix multiplication. Remember how earlier I said these neurons are simply things that hold numbers? Well of course the specific numbers that they hold depends on the image you feed in,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:15:27",
+    "text": "so it's actually more accurate to think of each neuron as a function, one that takes in the outputs of all the neurons in the previous layer and spits out a number between 0 and 1. Really the entire network is just a function, one that takes in 784 numbers as an input and spits out 10 numbers as an output. It's an absurdly complicated function, one that involves 13,000 parameters in the forms of these weights and biases that pick up on certain patterns, and which involves iterating many matrix vector products and the sigmoid"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:15:59",
+    "text": "squishification function, but it's just a function nonetheless. And in a way it's kind of reassuring that it looks complicated. I mean if it were any simpler, what hope would we have that it could take on the challenge of recognizing digits? And how does it take on that challenge? How does this network learn the appropriate weights and biases just by looking at data? Well that's what I'll show in the next video, and I'll also dig a little more into what this particular network we're seeing is really doing."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:16:28",
+    "text": "Now is the point I suppose I should say subscribe to stay notified about when that video or any new videos come out, but realistically most of you don't actually receive notifications from YouTube, do you? Maybe more honestly I should say subscribe so that the neural networks that underlie YouTube's recommendation algorithm are primed to believe that you want to see content from this channel get recommended to you. Anyway, stay posted for more. Thank you very much to everyone supporting these videos on Patreon."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:16:54",
+    "text": "I've been a little slow to progress in the probability series this summer, but I'm jumping back into it after this project, so patrons you can look out for updates there. To close things off here I have with me Lisha Li who did her PhD work on the theoretical side of deep learning and who currently works at a venture capital firm called Amplify Partners who kindly provided some of the funding for this video. So Lisha one thing I think we should quickly bring up is this sigmoid function."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:17:20",
+    "text": "As I understand it early networks use this to squish the relevant weighted sum into that interval between zero and one, you know kind of motivated by this biological analogy of neurons either being inactive or active. Exactly. But relatively few modern networks actually use sigmoid anymore. Yeah. It's kind of old school right? Yeah or rather ReLU seems to be much easier to train. And ReLU, ReLU stands for rectified linear unit? Yes it's this kind of function where you're just taking a max of zero"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:17:47",
+    "text": "and a where a is given by what you were explaining in the video and what this was sort of motivated from I think was a partially by a biological analogy with how neurons would either be activated or not. And so if it passes a certain threshold it would be the identity function but if it did not then it would just not be activated so it'd be zero so it's kind of a simplification. Using sigmoids didn't help training or it was very difficult to train at some point and people just tried ReLU and it happened"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_But what is a neural network  Deep learning chapter 1.txt",
+    "timestamp": "00:18:20",
+    "text": "to work very well for these incredibly deep neural networks. All right thank you Lisha."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:00:00",
+    "text": "The initials GPT stand for Generative Pretrained Transformer. So that first word is straightforward enough, these are bots that generate new text. Pretrained refers to how the model went through a process of learning from a massive amount of data, and the prefix insinuates that there's more room to fine-tune it on specific tasks with additional training. But the last word, that's the real key piece. A transformer is a specific kind of neural network, a machine learning model, and it's the core invention underlying the current boom in AI."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:00:32",
+    "text": "What I want to do with this video and the following chapters is go through a visually-driven explanation for what actually happens inside a transformer. We're going to follow the data that flows through it and go step by step. There are many different kinds of models that you can build using transformers. Some models take in audio and produce a transcript. This sentence comes from a model going the other way around, producing synthetic speech just from text. All those tools that took the world by storm in 2022 like DALL-E and Midjourney"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:01:01",
+    "text": "that take in a text description and produce an image are based on transformers. Even if I can't quite get it to understand what a pi creature is supposed to be, I'm still blown away that this kind of thing is even remotely possible. And the original transformer introduced in 2017 by Google was invented for the specific use case of translating text from one language into another. But the variant that you and I will focus on, which is the type that underlies tools like ChatGPT, will be a model that's trained to take in a piece of text,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:01:31",
+    "text": "maybe even with some surrounding images or sound accompanying it, and produce a prediction for what comes next in the passage. That prediction takes the form of a probability distribution over many different chunks of text that might follow. At first glance, you might think that predicting the next word feels like a very different goal from generating new text. But once you have a prediction model like this, a simple thing you could try to make it generate, a longer piece of text, is to give it an initial snippet to work with,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:01:59",
+    "text": "have it take a random sample from the distribution it just generated, append that sample to the text, and then run the whole process again to make a new prediction based on all the new text, including what it just added. I don't know about you, but it really doesn't feel like this should actually work. In this animation, for example, I'm running GPT-2 on my laptop and having it repeatedly predict and sample the next chunk of text to generate a story based on the seed text. The story just doesn't actually really make that much sense."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:02:26",
+    "text": "But if I swap it out for API calls to GPT-3 instead, which is the same basic model, just much bigger, suddenly almost magically we do get a sensible story, one that even seems to infer that a pi creature would live in a land of math and computation. This process here of repeated prediction and sampling is essentially what's happening when you interact with ChatGPT, or any of these other large language models, and you see them producing one word at a time. In fact, one feature that I would very much enjoy is the ability to"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:02:56",
+    "text": "see the underlying distribution for each new word that it chooses. Let's kick things off with a very high level preview of how data flows through a transformer. We will spend much more time motivating and interpreting and expanding on the details of each step, but in broad strokes, when one of these chatbots generates a given word, here's what's going on under the hood. First, the input is broken up into a bunch of little pieces. These pieces are called tokens, and in the case of text these tend to be"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:03:26",
+    "text": "words or little pieces of words or other common character combinations. If images or sound are involved, then tokens could be little patches of that image or little chunks of that sound. Each one of these tokens is then associated with a vector, meaning some list of numbers, which is meant to somehow encode the meaning of that piece. If you think of these vectors as giving coordinates in some very high dimensional space, words with similar meanings tend to land on vectors that are close to each other in that space."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:03:55",
+    "text": "This sequence of vectors then passes through an operation that's known as an attention block, and this allows the vectors to talk to each other and pass information back and forth to update their values. For example, the meaning of the word model in the phrase \"a machine learning model\" is different from its meaning in the phrase \"a fashion model\". The attention block is what's responsible for figuring out which words in context are relevant to updating the meanings of which other words,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:04:19",
+    "text": "and how exactly those meanings should be updated. And again, whenever I use the word meaning, this is somehow entirely encoded in the entries of those vectors. After that, these vectors pass through a different kind of operation, and depending on the source that you're reading this will be referred to as a multi-layer perceptron or maybe a feed-forward layer. And here the vectors don't talk to each other, they all go through the same operation in parallel. And while this block is a little bit harder to interpret,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:04:46",
+    "text": "later on we'll talk about how the step is a little bit like asking a long list of questions about each vector, and then updating them based on the answers to those questions. All of the operations in both of these blocks look like a giant pile of matrix multiplications, and our primary job is going to be to understand how to read the underlying matrices. I'm glossing over some details about some normalization steps that happen in between, but this is after all a high-level preview. After that, the process essentially repeats, you go back and forth"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:05:17",
+    "text": "between attention blocks and multi-layer perceptron blocks, until at the very end the hope is that all of the essential meaning of the passage has somehow been baked into the very last vector in the sequence. We then perform a certain operation on that last vector that produces a probability distribution over all possible tokens, all possible little chunks of text that might come next. And like I said, once you have a tool that predicts what comes next given a snippet of text, you can feed it a little bit of seed text and"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:05:46",
+    "text": "have it repeatedly play this game of predicting what comes next, sampling from the distribution, appending it, and then repeating over and over. Some of you in the know may remember how long before ChatGPT came into the scene, this is what early demos of GPT-3 looked like, you would have it autocomplete stories and essays based on an initial snippet. To make a tool like this into a chatbot, the easiest starting point is to have a little bit of text that establishes the setting of a user interacting with a"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:06:14",
+    "text": "helpful AI assistant, what you would call the system prompt, and then you would use the user's initial question or prompt as the first bit of dialogue, and then you have it start predicting what such a helpful AI assistant would say in response. There is more to say about an added step of training that's required to make this work well, but at a high level this is the idea. In this chapter, you and I are going to expand on the details of what happens at the very beginning of the network, at the very end of the network,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:06:43",
+    "text": "and I also want to spend a lot of time reviewing some important bits of background knowledge, things that would have been second nature to any machine learning engineer by the time transformers came around. If you're comfortable with that background knowledge and a little impatient, you could probably feel free to skip to the next chapter, which is going to focus on the attention blocks, generally considered the heart of the transformer. After that, I want to talk more about these multi-layer perceptron blocks,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:07:07",
+    "text": "how training works, and a number of other details that will have been skipped up to that point. For broader context, these videos are additions to a mini-series about deep learning, and it's okay if you haven't watched the previous ones, I think you can do it out of order, but before diving into transformers specifically, I do think it's worth making sure that we're on the same page about the basic premise and structure of deep learning. At the risk of stating the obvious, this is one approach to machine learning,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:07:33",
+    "text": "which describes any model where you're using data to somehow determine how a model behaves. What I mean by that is, let's say you want a function that takes in an image and it produces a label describing it, or our example of predicting the next word given a passage of text, or any other task that seems to require some element of intuition and pattern recognition. We almost take this for granted these days, but the idea with machine learning is that rather than trying to explicitly define a procedure for how to do that task in code,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:08:02",
+    "text": "which is what people would have done in the earliest days of AI, instead you set up a very flexible structure with tunable parameters, like a bunch of knobs and dials, and then, somehow, you use many examples of what the output should look like for a given input to tweak and tune the values of those parameters to mimic this behavior. For example, maybe the simplest form of machine learning is linear regression, where your inputs and outputs are each single numbers, something like the square footage of a house and its price,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:08:31",
+    "text": "and what you want is to find a line of best fit through this data, you know, to predict future house prices. That line is described by two continuous parameters, say the slope and the y-intercept, and the goal of linear regression is to determine those parameters to closely match the data. Needless to say, deep learning models get much more complicated. GPT-3, for example, has not two, but 175 billion parameters. But here's the thing, it's not a given that you can create some giant model with a huge number of parameters without it either grossly"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:09:06",
+    "text": "overfitting the training data or being completely intractable to train. Deep learning describes a class of models that in the last couple decades have proven to scale remarkably well. What unifies them is that they all use the same training algorithm, it's called backpropagation, we talked about it in previous chapters, and the context that I want you to have as we go in is that in order for this training algorithm to work well at scale, these models have to follow a certain specific format."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:09:32",
+    "text": "And if you know this format going in, it helps to explain many of the choices for how a transformer processes language, which otherwise run the risk of feeling kinda arbitrary. First, whatever kind of model you're making, the input has to be formatted as an array of real numbers. This could simply mean a list of numbers, it could be a two-dimensional array, or very often you deal with higher dimensional arrays, where the general term used is tensor. You often think of that input data as being progressively transformed into many"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:10:01",
+    "text": "distinct layers, where again, each layer is always structured as some kind of array of real numbers, until you get to a final layer which you consider the output. For example, the final layer in our text processing model is a list of numbers representing the probability distribution for all possible next tokens. In deep learning, these model parameters are almost always referred to as weights, and this is because a key feature of these models is that the only way these parameters interact with the data being processed is through weighted sums."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:10:30",
+    "text": "You also sprinkle some non-linear functions throughout, but they won't depend on parameters. Typically, though, instead of seeing the weighted sums all naked and written out explicitly like this, you'll instead find them packaged together as various components in a matrix vector product. It amounts to saying the same thing, if you think back to how matrix vector multiplication works, each component in the output looks like a weighted sum. It's just often conceptually cleaner for you and me to think"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:10:58",
+    "text": "about matrices that are filled with tunable parameters that transform vectors that are drawn from the data being processed. For example, those 175 billion weights in GPT-3 are organized into just under 28,000 distinct matrices. Those matrices in turn fall into eight different categories, and what you and I are going to do is step through each one of those categories to understand what that type does. As we go through, I think it's kind of fun to reference the specific numbers from GPT-3 to count up exactly where those 175 billion come from."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:11:32",
+    "text": "Even if nowadays there are bigger and better models, this one has a certain charm as the first large-language model to really capture the world's attention outside of ML communities. Also, practically speaking, companies tend to keep much tighter lips around the specific numbers for more modern networks. I just want to set the scene going in, that as you peek under the hood to see what happens inside a tool like ChatGPT, almost all of the actual computation looks like matrix vector multiplication."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:11:58",
+    "text": "There's a little bit of a risk getting lost in the sea of billions of numbers, but you should draw a very sharp distinction in your mind between the weights of the model, which I'll always color in blue or red, and the data being processed, which I'll always color in gray. The weights are the actual brains, they are the things learned during training, and they determine how it behaves. The data being processed simply encodes whatever specific input is fed into the model for a given run, like an example snippet of text."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:12:27",
+    "text": "With all of that as foundation, let's dig into the first step of this text processing example, which is to break up the input into little chunks and turn those chunks into vectors. I mentioned how those chunks are called tokens, which might be pieces of words or punctuation, but every now and then in this chapter and especially in the next one, I'd like to just pretend that it's broken more cleanly into words. Because we humans think in words, this will just make it much easier to reference little examples and clarify each step."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:12:55",
+    "text": "The model has a predefined vocabulary, some list of all possible words, say 50,000 of them, and the first matrix that we'll encounter, known as the embedding matrix, has a single column for each one of these words. These columns are what determines what vector each word turns into in that first step. We label it W_E, and like all the matrices we see, its values begin random, but they're going to be learned based on data. Turning words into vectors was common practice in machine learning long before"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:13:27",
+    "text": "transformers, but it's a little weird if you've never seen it before, and it sets the foundation for everything that follows, so let's take a moment to get familiar with it. We often call this embedding a word, which invites you to think of these vectors very geometrically as points in some high dimensional space. Visualizing a list of three numbers as coordinates for points in 3D space would be no problem, but word embeddings tend to be much much higher dimensional. In GPT-3 they have 12,288 dimensions, and as you'll see,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:13:56",
+    "text": "it matters to work in a space that has a lot of distinct directions. In the same way that you could take a two-dimensional slice through a 3D space and project all the points onto that slice, for the sake of animating word embeddings that a simple model is giving me, I'm going to do an analogous thing by choosing a three-dimensional slice through this very high dimensional space, and projecting the word vectors down onto that and displaying the results. The big idea here is that as a model tweaks and tunes its weights to determine"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:14:26",
+    "text": "how exactly words get embedded as vectors during training, it tends to settle on a set of embeddings where directions in the space have a kind of semantic meaning. For the simple word-to-vector model I'm running here, if I run a search for all the words whose embeddings are closest to that of tower, you'll notice how they all seem to give very similar tower-ish vibes. And if you want to pull up some Python and play along at home, this is the specific model that I'm using to make the animations."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:14:52",
+    "text": "It's not a transformer, but it's enough to illustrate the idea that directions in the space can carry semantic meaning. A very classic example of this is how if you take the difference between the vectors for woman and man, something you would visualize as a little vector in the space connecting the tip of one to the tip of the other, it's very similar to the difference between king and queen. So let's say you didn't know the word for a female monarch, you could find it by taking king, adding this woman minus man direction,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:15:22",
+    "text": "and searching for the embedding closest to that point. At least, kind of. Despite this being a classic example for the model I'm playing with, the true embedding of queen is actually a little farther off than this would suggest, presumably because the way queen is used in training data is not merely a feminine version of king. When I played around, family relations seemed to illustrate the idea much better. The point is, it looks like during training the model found it advantageous to choose embeddings such that one direction in this space encodes gender information."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:15:57",
+    "text": "Another example is that if you take the embedding of Italy, and you subtract the embedding of Germany, and add that to the embedding of Hitler, you get something very close to the embedding of Mussolini. It's as if the model learned to associate some directions with Italian-ness, and others with WWII axis leaders. Maybe my favorite example in this vein is how in some models, if you take the difference between Germany and Japan, and add it to sushi, you end up very close to bratwurst. Also in playing this game of finding nearest neighbors,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:16:30",
+    "text": "I was very pleased to see how close cat was to both beast and monster. One bit of mathematical intuition that's helpful to have in mind, especially for the next chapter, is how the dot product of two vectors can be thought of as a way to measure how well they align. Computationally, dot products involve multiplying all the corresponding components and then adding the results, which is good, since so much of our computation has to look like weighted sums. Geometrically, the dot product is positive when vectors point in similar directions,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:17:00",
+    "text": "it's zero if they're perpendicular, and it's negative whenever they point in opposite directions. For example, let's say you were playing with this model, and you hypothesize that the embedding of cats minus cat might represent a sort of plurality direction in this space. To test this, I'm going to take this vector and compute its dot product against the embeddings of certain singular nouns, and compare it to the dot products with the corresponding plural nouns. If you play around with this, you'll notice that the plural ones"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:17:30",
+    "text": "do indeed seem to consistently give higher values than the singular ones, indicating that they align more with this direction. It's also fun how if you take this dot product with the embeddings of the words one, two, three, and so on, they give increasing values, so it's as if we can quantitatively measure how plural the model finds a given word. Again, the specifics for how words get embedded is learned using data. This embedding matrix, whose columns tell us what happens to each word,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:17:57",
+    "text": "is the first pile of weights in our model. Using the GPT-3 numbers, the vocabulary size specifically is 50,257, and again, technically this consists not of words per se, but of tokens. The embedding dimension is 12,288, and multiplying those tells us this consists of about 617 million weights. Let's go ahead and add this to a running tally, remembering that by the end we should count up to 175 billion. In the case of transformers, you really want to think of the vectors in this embedding space as not merely representing individual words."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:18:33",
+    "text": "For one thing, they also encode information about the position of that word, which we'll talk about later, but more importantly, you should think of them as having the capacity to soak in context. A vector that started its life as the embedding of the word king, for example, might progressively get tugged and pulled by various blocks in this network, so that by the end it points in a much more specific and nuanced direction that somehow encodes that it was a king who lived in Scotland, and who had achieved his post after murdering the previous king,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:19:02",
+    "text": "and who's being described in Shakespearean language. Think about your own understanding of a given word. The meaning of that word is clearly informed by the surroundings, and sometimes this includes context from a long distance away, so in putting together a model that has the ability to predict what word comes next, the goal is to somehow empower it to incorporate context efficiently. To be clear, in that very first step, when you create the array of vectors based on the input text, each one of those is simply plucked"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:19:30",
+    "text": "out of the embedding matrix, so initially each one can only encode the meaning of a single word without any input from its surroundings. But you should think of the primary goal of this network that it flows through as being to enable each one of those vectors to soak up a meaning that's much more rich and specific than what mere individual words could represent. The network can only process a fixed number of vectors at a time, known as its context size. For GPT-3 it was trained with a context size of 2048,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:19:58",
+    "text": "so the data flowing through the network always looks like this array of 2048 columns, each of which has 12,000 dimensions. This context size limits how much text the transformer can incorporate when it's making a prediction of the next word. This is why long conversations with certain chatbots, like the early versions of ChatGPT, often gave the feeling of the bot kind of losing the thread of conversation as you continued too long. We'll go into the details of attention in due time, but skipping ahead I want to talk for a minute about what happens at the very end."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:20:29",
+    "text": "Remember, the desired output is a probability distribution over all tokens that might come next. For example, if the very last word is Professor, and the context includes words like Harry Potter, and immediately preceding we see least favorite teacher, and also if you give me some leeway by letting me pretend that tokens simply look like full words, then a well-trained network that had built up knowledge of Harry Potter would presumably assign a high number to the word Snape. This involves two different steps."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:20:58",
+    "text": "The first one is to use another matrix that maps the very last vector in that context to a list of 50,000 values, one for each token in the vocabulary. Then there's a function that normalizes this into a probability distribution, it's called softmax and we'll talk more about it in just a second, but before that it might seem a little bit weird to only use this last embedding to make a prediction, when after all in that last step there are thousands of other vectors in the layer just sitting there with their own context-rich meanings."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:21:29",
+    "text": "This has to do with the fact that in the training process it turns out to be much more efficient if you use each one of those vectors in the final layer to simultaneously make a prediction for what would come immediately after it. There's a lot more to be said about training later on, but I just want to call that out right now. This matrix is called the Unembedding matrix and we give it the label WU. Again, like all the weight matrices we see, its entries begin at random, but they are learned during the training process."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:21:56",
+    "text": "Keeping score on our total parameter count, this Unembedding matrix has one row for each word in the vocabulary, and each row has the same number of elements as the embedding dimension. It's very similar to the embedding matrix, just with the order swapped, so it adds another 617 million parameters to the network, meaning our count so far is a little over a billion, a small but not wholly insignificant fraction of the 175 billion we'll end up with in total. As the very last mini-lesson for this chapter,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:22:25",
+    "text": "I want to talk more about this softmax function, since it makes another appearance for us once we dive into the attention blocks. The idea is that if you want a sequence of numbers to act as a probability distribution, say a distribution over all possible next words, then each value has to be between 0 and 1, and you also need all of them to add up to 1. However, if you're playing the deep learning game where everything you do looks like matrix-vector multiplication, the outputs you get by default don't abide by this at all."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:22:55",
+    "text": "The values are often negative, or much bigger than 1, and they almost certainly don't add up to 1. Softmax is the standard way to turn an arbitrary list of numbers into a valid distribution in such a way that the largest values end up closest to 1, and the smaller values end up very close to 0. That's all you really need to know. But if you're curious, the way it works is to first raise e to the power of each of the numbers, which means you now have a list of positive values, and then you can take the sum of all those positive values and divide each"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:23:26",
+    "text": "term by that sum, which normalizes it into a list that adds up to 1. You'll notice that if one of the numbers in the input is meaningfully bigger than the rest, then in the output the corresponding term dominates the distribution, so if you were sampling from it you'd almost certainly just be picking the maximizing input. But it's softer than just picking the max in the sense that when other values are similarly large, they also get meaningful weight in the distribution, and everything changes continuously as you continuously vary the inputs."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:23:55",
+    "text": "In some situations, like when ChatGPT is using this distribution to create a next word, there's room for a little bit of extra fun by adding a little extra spice into this function, with a constant T thrown into the denominator of those exponents. We call it the temperature, since it vaguely resembles the role of temperature in certain thermodynamics equations, and the effect is that when T is larger, you give more weight to the lower values, meaning the distribution is a little bit more uniform, and if T is smaller, then the bigger values will dominate more"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:24:27",
+    "text": "aggressively, where in the extreme, setting T equal to zero means all of the weight goes to maximum value. For example, I'll have GPT-3 generate a story with the seed text, \"once upon a time there was A\", but I'll use different temperatures in each case. Temperature zero means that it always goes with the most predictable word, and what you get ends up being a trite derivative of Goldilocks. A higher temperature gives it a chance to choose less likely words, but it comes with a risk."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:24:58",
+    "text": "In this case, the story starts out more originally, about a young web artist from South Korea, but it quickly degenerates into nonsense. Technically speaking, the API doesn't actually let you pick a temperature bigger than 2. There's no mathematical reason for this, it's just an arbitrary constraint imposed to keep their tool from being seen generating things that are too nonsensical. So if you're curious, the way this animation is actually working is I'm taking the 20 most probable next tokens that GPT-3 generates,"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:25:27",
+    "text": "which seems to be the maximum they'll give me, and then I tweak the probabilities based on an exponent of 1/5. As another bit of jargon, in the same way that you might call the components of the output of this function probabilities, people often refer to the inputs as logits, or some people say logits, some people say logits, I'm gonna say logits. So for instance, when you feed in some text, you have all these word embeddings flow through the network, and you do this final multiplication with the"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:25:54",
+    "text": "unembedding matrix, machine learning people would refer to the components in that raw, unnormalized output as the logits for the next word prediction. A lot of the goal with this chapter was to lay the foundations for understanding the attention mechanism, Karate Kid wax-on-wax-off style. You see, if you have a strong intuition for word embeddings, for softmax, for how dot products measure similarity, and also the underlying premise that most of the calculations have to look like matrix multiplication with matrices"
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_Transformers, the tech behind LLMs  Deep Learning Chapter 5.txt",
+    "timestamp": "00:26:24",
+    "text": "full of tunable parameters, then understanding the attention mechanism, this cornerstone piece in the whole modern boom in AI, should be relatively smooth. For that, come join me in the next chapter. As I'm publishing this, a draft of that next chapter is available for review by Patreon supporters. A final version should be up in public in a week or two, it usually depends on how much I end up changing based on that review. In the meantime, if you want to dive into attention, and if you want to help the channel out a little bit, it's there waiting."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:00:00",
+    "text": "Intro: Today's video covers three things: what is deep learning, the difference between ML and DL, and why deep learning became so successful."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:02:16",
+    "text": "Definition of deep learning: It's a subfield of AI and ML, inspired by the structure of the human brain. Deep learning algorithms attempt to draw similar conclusions as humans by using a logical structure called neural networks. Umbrella hierarchy: AI contains Machine Learning, which contains Deep Learning."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:03:32",
+    "text": "ML vs DL difference: Machine learning is a subfield of AI where you learn from data — if you have input and output, the ML algorithm figures out the relationship between them. Deep learning is a subfield of ML that depends on a logical structure called a neural network, which is inspired by the human brain. Computer scientists thought: if we want intelligent machines, let's copy the most intelligent thing on earth — the human brain."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:05:46",
+    "text": "Neural network structure: The fundamental unit of a neural network is called a perceptron — the circles you see in diagrams. They are connected by arrows called weights. These are grouped into layers. The \"deep\" in deep learning comes from having many hidden layers stacked between the input layer and the output layer."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:07:10",
+    "text": "Types of neural networks: CNN (Convolutional Neural Network) for image data. RNN (Recurrent Neural Network) for speech, text, and time-series data. GAN (Generative Adversarial Network) for generating new content like text and images."
+  },
+  {
+    "source": "NoteGPT_TRANSCRIPT_What is Deep Learning_ENGLISH_TRANSLATION.txt",
+    "timestamp": "00:09:52",
+    "text": "Why deep learning became successful: Five reasons — (1) availability of large amounts of data, (2) GPU hardware that can handle parallel computation, (3) open-source frameworks like TensorFlow and PyTorch, (4) pre-built architectures enabling transfer learning, (5) a strong and active global community."
+  }
+]

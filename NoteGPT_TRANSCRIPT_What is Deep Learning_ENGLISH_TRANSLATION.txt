@@ -1,0 +1,17 @@
+00:00:00
+Intro: Today's video covers three things: what is deep learning, the difference between ML and DL, and why deep learning became so successful.
+
+00:02:16
+Definition of deep learning: It's a subfield of AI and ML, inspired by the structure of the human brain. Deep learning algorithms attempt to draw similar conclusions as humans by using a logical structure called neural networks. Umbrella hierarchy: AI contains Machine Learning, which contains Deep Learning.
+
+00:03:32
+ML vs DL difference: Machine learning is a subfield of AI where you learn from data — if you have input and output, the ML algorithm figures out the relationship between them. Deep learning is a subfield of ML that depends on a logical structure called a neural network, which is inspired by the human brain. Computer scientists thought: if we want intelligent machines, let's copy the most intelligent thing on earth — the human brain.
+
+00:05:46
+Neural network structure: The fundamental unit of a neural network is called a perceptron — the circles you see in diagrams. They are connected by arrows called weights. These are grouped into layers. The "deep" in deep learning comes from having many hidden layers stacked between the input layer and the output layer.
+
+00:07:10
+Types of neural networks: CNN (Convolutional Neural Network) for image data. RNN (Recurrent Neural Network) for speech, text, and time-series data. GAN (Generative Adversarial Network) for generating new content like text and images.
+
+00:09:52
+Why deep learning became successful: Five reasons — (1) availability of large amounts of data, (2) GPU hardware that can handle parallel computation, (3) open-source frameworks like TensorFlow and PyTorch, (4) pre-built architectures enabling transfer learning, (5) a strong and active global community.
